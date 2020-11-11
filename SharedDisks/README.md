@@ -9,3 +9,5 @@ The powershell code to deploy this solution can be found in the Powershell folde
 ## Azure Resource Manager
 
 The [ARM Template](./ARM) to deploy this solution is still in progress, please check back later. Feel free to submit a PR and contribute!
+
+[Back to the main page](../README.md)
